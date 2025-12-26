@@ -62,8 +62,6 @@ Each table (except super_admin users) includes a `tenant_id` column.
 - Indexes on tenant_id for performance
 - Composite unique constraint on (tenant_id, email)
 
-*(ERD diagram will be added as an image file)*
-
 ---
 
 ## 4. API Architecture

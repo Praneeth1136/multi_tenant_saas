@@ -71,7 +71,7 @@ FRONTEND_URL=http://frontend:3000
 ## 4. Local Development Setup
 
 ### Step 1: Clone Repository
-git clone <repository-url>
+git clone https://github.com/Lova-Reddy/multi-tenant-saas.git
 cd multi-tenant-saas
 
 ### Step 2: Start Application with Docker
