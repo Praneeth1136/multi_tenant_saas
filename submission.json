@@ -1,7 +1,7 @@
 {
   
   "projectName": "Multi-Tenant SaaS Platform",
-  "candidateName": "Dwarampudi Lova Reddy",
+  "candidateName": "Praneeth Kilaparthi",
   "testCredentials": {
     "superAdmin": {
       "email": "superadmin@system.com",
@@ -38,7 +38,7 @@
     "docs/images/user-dashboard.png"
   ],
   "repository": {
-    "github": "https://github.com/Lova-Reddy/multi-tenant-saas.git"
+    "github": "https://github.com/Praneeth1136/multi_tenant_saas.git"
   },
   "status": "Completed"
 }

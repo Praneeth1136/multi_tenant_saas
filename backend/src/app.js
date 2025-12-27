@@ -63,7 +63,7 @@ const PORT = process.env.PORT || 5000;
       console.log(`Backend running on port ${PORT}`);
     });
   } catch (error) {
-    console.error('Failed to initialize database');
+    console.error('Failed to initialize database:', error);
     process.exit(1);
   }
 })();
